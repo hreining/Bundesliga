@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\A285492\\Dokumente\\AIDA\\envs\\projects\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\A285492\\Dokumente\\AIDA\\envs\\projects\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": false
 }
